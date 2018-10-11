@@ -1,0 +1,42 @@
+#password {
+    max-width: 500px;
+}
+
+#email {
+    max-width: 500px;
+}
+
+.center {
+    text-align: center;
+}
+
+#email{
+    text-align: right;
+    width:70px;
+}
+
+#message {
+    color:red;
+    text-align: center;
+}
+
+body{
+    background:url('/images/Math.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.basic-wrapper{
+    padding: 14em 3em 5em;
+}
+
+.correct{
+    color: green;
+}
+
+.incorrect{
+    color: red;
+}
+.basic-wrapper1{
+    padding: 10em 3em 5em;
+}
