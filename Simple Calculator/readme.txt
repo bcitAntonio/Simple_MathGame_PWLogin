@@ -5,12 +5,8 @@ http://math111.azurewebsites.net
 ==============================
 
 Name:Chufan Ye
-
-student number: A00981175
-
 set: D1
 
-email address: yechufan1017@gmail.com
 
 what i have completed:
 
@@ -25,13 +21,7 @@ edited login.php
 
 ==============================
 
-Name: Antonio Cao Shen    
-
-student number:  A01020653    
-
-set: D1
-
-email address: antoniocaoshen@hotmail.com
+Name: Antonio Cao Shen      
 
 what i have completed: 
 
